@@ -1,0 +1,256 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jan@example.com",
+      "password": "1234",
+      "name": "Jan"
+    },
+    {
+      "id": 2,
+      "email": "ania@example.com",
+      "password": "abcd",
+      "name": "Ania"
+    },
+    {
+      "id": 3,
+      "email": "marek@example.com",
+      "password": "qwerty",
+      "name": "Marek"
+    }
+  ],
+  "tutors": [
+    {
+      "id": "t1",
+      "name": "Jan Kowalski",
+      "bio": "Specjalista od matematyki z 10-letnim doświadczeniem.",
+      "subjects": [
+        {
+          "name": "Matematyka",
+          "price": 80
+        },
+        {
+          "name": "Fizyka",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Anna Nowak",
+      "bio": "Lektorka języka angielskiego z certyfikatem C2.",
+      "subjects": [
+        {
+          "name": "Język angielski",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "name": "Tomasz Zieliński",
+      "bio": "Pasjonat historii, prowadzący korepetycje od 5 lat.",
+      "subjects": [
+        {
+          "name": "Historia",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "name": "Katarzyna Wiśniewska",
+      "bio": "Nauczycielka języka niemieckiego w liceum.",
+      "subjects": [
+        {
+          "name": "Język niemiecki",
+          "price": 75
+        }
+      ]
+    },
+    {
+      "id": "t5",
+      "name": "Marek Wójcik",
+      "bio": "Pomagam z chemią na poziomie liceum i studiów.",
+      "subjects": [
+        {
+          "name": "Chemia",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": "t6",
+      "name": "Alicja Mazur",
+      "bio": "Zajęcia z biologii z dojazdem lub online.",
+      "subjects": [
+        {
+          "name": "Biologia",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "t7",
+      "name": "Paweł Dąbrowski",
+      "bio": "Inżynier mechanik z pasją do fizyki.",
+      "subjects": [
+        {
+          "name": "Fizyka",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": "t8",
+      "name": "Monika Kaczmarek",
+      "bio": "Korepetytorka języka francuskiego z doświadczeniem za granicą.",
+      "subjects": [
+        {
+          "name": "Język francuski",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "t9",
+      "name": "Krzysztof Pawlak",
+      "bio": "Pomagam przygotować się do matury z geografii.",
+      "subjects": [
+        {
+          "name": "Geografia",
+          "price": 65
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "name": "Magdalena Szymańska",
+      "bio": "Prowadzę zajęcia z języka polskiego od szkoły podstawowej do liceum.",
+      "subjects": [
+        {
+          "name": "Język polski",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "name": "Adrian Lis",
+      "bio": "Programista, który tłumaczy informatykę w prosty sposób.",
+      "subjects": [
+        {
+          "name": "Informatyka",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "name": "Natalia Król",
+      "bio": "Zajęcia z matematyki i statystyki dla studentów.",
+      "subjects": [
+        {
+          "name": "Statystyka",
+          "price": 100
+        },
+        {
+          "name": "Matematyka",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "name": "Sebastian Górski",
+      "bio": "Korepetytor z języka hiszpańskiego z doświadczeniem w Ameryce Południowej.",
+      "subjects": [
+        {
+          "name": "Język hiszpański",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "name": "Izabela Czarnecka",
+      "bio": "Biolożka i nauczycielka z pasją.",
+      "subjects": [
+        {
+          "name": "Biologia",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "name": "Michał Jankowski",
+      "bio": "Pomagam z informatyką, programowaniem i algorytmiką.",
+      "subjects": [
+        {
+          "name": "Informatyka",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "name": "Elżbieta Baran",
+      "bio": "Doświadczona korepetytorka z języka rosyjskiego.",
+      "subjects": [
+        {
+          "name": "Język rosyjski",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "name": "Damian Michalski",
+      "bio": "Zajęcia przygotowujące do egzaminów z wiedzy o społeczeństwie.",
+      "subjects": [
+        {
+          "name": "WOS",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "name": "Karolina Bąk",
+      "bio": "Matematyka i fizyka dla uczniów technikum.",
+      "subjects": [
+        {
+          "name": "Matematyka",
+          "price": 85
+        },
+        {
+          "name": "Fizyka",
+          "price": 90
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "name": "Łukasz Rutkowski",
+      "bio": "Ekonomista z praktyką, uczę podstaw przedsiębiorczości.",
+      "subjects": [
+        {
+          "name": "Podstawy przedsiębiorczości",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "name": "Dorota Zawadzka",
+      "bio": "Pomagam uczniom z trudnościami w nauce języka angielskiego.",
+      "subjects": [
+        {
+          "name": "Język angielski",
+          "price": 65
+        }
+      ]
+    }
+  ]
+}

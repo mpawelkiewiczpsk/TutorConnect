@@ -1,0 +1,14 @@
+{
+  "profileTitle": "Twój profil",
+  "loggedInAs": "Zalogowany jako:",
+  "darkMode": "Tryb ciemny",
+  "selectLanguage": "Wybierz język:",
+  "logout": "Wyloguj się",
+  "logoutConfirm": "Czy na pewno chcesz się wylogować?",
+  "logoutTitle": "Wylogowanie",
+  "cancel": "Anuluj",
+  "upcomingLessons": "📅 Nadchodzące lekcje",
+  "noUpcoming": "Brak nadchodzących zajęć.",
+  "lessonsThisWeek": "📈 Zajęcia w tym tygodniu:",
+  "recommendedTutors": "🌟 Polecani korepetytorzy"
+}

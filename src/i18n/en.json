@@ -1,0 +1,14 @@
+{
+  "profileTitle": "Your Profile",
+  "loggedInAs": "Logged in as:",
+  "darkMode": "Dark Mode",
+  "selectLanguage": "Select language:",
+  "logout": "Log out",
+  "logoutConfirm": "Are you sure you want to log out?",
+  "logoutTitle": "Logout",
+  "cancel": "Cancel",
+  "upcomingLessons": "📅 Upcoming lessons",
+  "noUpcoming": "No upcoming lessons.",
+  "lessonsThisWeek": "📈 Lessons this week:",
+  "recommendedTutors": "🌟 Recommended tutors"
+}

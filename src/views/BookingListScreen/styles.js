@@ -21,38 +21,36 @@ const styles = StyleSheet.create({
     color: "#333",
   },
   card: {
-    backgroundColor: "#ffffff",
+    backgroundColor: "#fff",
     padding: 16,
     marginBottom: 12,
     borderRadius: 12,
     shadowColor: "#000",
     shadowOpacity: 0.08,
-    shadowOffset: { width: 0, height: 3 },
-    shadowRadius: 6,
-    elevation: 3,
-  },
-  cardDark: {
-    backgroundColor: "#2e2e2e",
+    shadowOffset: { width: 0, height: 2 },
+    shadowRadius: 5,
+    elevation: 2,
   },
   title: {
     fontSize: 16,
     fontWeight: "bold",
-    marginBottom: 4,
     color: "#222",
   },
-  detail: {
+  time: {
     fontSize: 14,
     color: "#555",
-    marginTop: 2,
+    marginTop: 4,
+  },
+  price: {
+    fontSize: 14,
+    color: "#333",
+    marginTop: 4,
   },
   empty: {
-    fontStyle: "italic",
-    color: "#666",
     fontSize: 14,
-    paddingVertical: 8,
-  },
-  textLight: {
-    color: "#eee",
+    fontStyle: "italic",
+    color: "#777",
+    marginBottom: 8,
   },
 });
 
